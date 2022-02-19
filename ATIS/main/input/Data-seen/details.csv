@@ -1,0 +1,17 @@
+Intents,Training,Validation,Testing
+capacity,16,,21
+flight,3666,,632
+meal,6,,6
+distance,20,,10
+quantity,51,,3
+abbreviation,147,,33
+ground_fare,18,,7
+ground_service,255,,36
+city,19,,6
+flight+airfare,21,,12
+airfare,423,,48
+flight_time,54,,1
+flight_no,12,,8
+airport,20,,18
+aircraft,81,,9
+airline,157,,38
